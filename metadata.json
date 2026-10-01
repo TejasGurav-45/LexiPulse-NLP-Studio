@@ -1,0 +1,6 @@
+{
+  "name": "LexiPulse NLP Studio",
+  "description": "Intelligent NLP workspace for long-form article summarization, multi-source news synthesis, and real-time sentiment analysis dashboard for trending topics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
